@@ -16,7 +16,12 @@
     "vue-router": "^3.0.1",
     "node-forge": ">=0.10.0",
     "yargs-parser": ">=13.1.2",
-    "http-proxy": ">=1.18.1"
+    "http-proxy": ">=1.18.1",
+    "websocket-extensions": ">=0.1.4",
+    "lodash": ">=4.17.19",
+    "url-parse": ">=1.4.3",
+    "macaddress": ">=0.2.9",
+    "is-my-json-valid": ">=2.17.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
