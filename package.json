@@ -19,7 +19,7 @@
     "http-proxy": ">=1.18.1",
     "websocket-extensions": ">=0.1.4",
     "lodash": ">=4.17.19",
-    "url-parse": ">=1.4.3",
+    "url-parse": ">=1.5.2",
     "macaddress": ">=0.2.9",
     "is-my-json-valid": ">=2.17.2"
   },
